@@ -1,0 +1,9 @@
+0 Success
+1 Success with error
+2 Error
+
+
+(m1cr0face) C:\Users\Yui\Desktop\m1cr0face>python manage.py createsuperuser --email admin@microface.com --username admin
+Password: yui4avii
+Password (again):
+Superuser created successfully.
